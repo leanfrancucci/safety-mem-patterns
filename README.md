@@ -1,4 +1,4 @@
-# Safety patterns
+# Safety memory patterns
 This repository contains the source code and unit test cases explainded in 
 the article [Protecting your embedded software against memory corruption](x).
 
